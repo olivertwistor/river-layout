@@ -8,4 +8,4 @@ This was 8+ years ago and I have no interest in further development, partly beca
 
 ## Licenses
 
-River Layout is distributed under an LGPL v3 license. Read [LICENSE](license) for full license terms.
+River Layout is distributed under an LGPL v3 license. Read [LICENSE](LICENSE) for full license terms.
